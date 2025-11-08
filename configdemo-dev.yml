@@ -1,5 +1,5 @@
 build : 
-  id: 10101011
-  version: 1.00.00
+  id: 20202020
+  version: 2.00.00
   name: "PROD GIT  build"
-  type: "GOT PROD build"
+  type: "GIT PROD build"
